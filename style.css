@@ -92,7 +92,7 @@
 #home::before {
     content: "";
     position: absolute;
-    background: url('bg17.jpg') no-repeat center center/cover;
+    background: src="bg17.jpg" no-repeat center center/cover;
     top: 0px;
     left: 0px;
     height: 600px;
